@@ -38,7 +38,7 @@ Raymon Anthony Doane: 3.1% (11,606)
 - Second place was Charles Casper Stockham with 85,213 votes or 23%
 - Third place was Raymon Anthony Doane with 11,606 votes or 3.1%
 ```
-!(Resources/Election_Analysis_Screenshot.png)
+(Resources/Election_Analysis_Screenshot.png)
 # Election-Audit Summary
 This script can be modified to be used for other elections by obtaining a .csv file of the future election data that you want to get results for and using that data in conjunction with the script to give you your results. This script can also be used for non election/political purposes such as determining smaller events across different counties and regions.
 
