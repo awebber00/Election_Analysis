@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 Election Data and Work in Python
 ## Overview of Election Audit
 I am helping Seth and Tom submit election results to the election commission. Additionally they would also like to know:
