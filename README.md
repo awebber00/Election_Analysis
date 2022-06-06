@@ -43,3 +43,4 @@ Raymon Anthony Doane: 3.1% (11,606)
 # Election-Audit Summary
 This script can be modified to be used for other elections by obtaining a .csv file of the future election data that you want to get results for and using that data in conjunction with the script to give you your results. This script can also be used for non election/political purposes such as determining smaller events across different counties and regions.
 
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
